@@ -1,0 +1,10 @@
+# Ignore user-specific workspace layouts (open tabs and panels)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ignore user-specific app settings (like spellcheck languages or window size)
+.obsidian/app.json
+
+# Ignore standard operating system junk files
+.DS_Store
+Thumbs.db
