@@ -1,0 +1,6 @@
+-  services used and how they were set up
+-  installation for proxmox 
+-  server hardware
+-  vpn setup
+-  wazzuh agent installation
+-  general read me
